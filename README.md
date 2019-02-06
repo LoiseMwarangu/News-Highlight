@@ -13,7 +13,7 @@ Output Example: Panels of various news sources is displayed per category
 
 The program should display articles from a selected news source:
 
-Input Example: Click on See more from this site button
+Input Example: Click on news source
 
 Output Example: Redirected to a page with a list of articles from the selected source
 
